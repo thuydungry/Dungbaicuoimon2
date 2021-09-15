@@ -215,7 +215,7 @@ body
   z-index: 1;
   top: 0;
   left: 0;
-background: url("images/9.jpg");
+background: url("../images/9.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
